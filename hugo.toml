@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'Katechizm dla dzieci'
-theme = 'vnovel'
+theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

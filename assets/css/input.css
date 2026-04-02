@@ -1,0 +1,6 @@
+/* input.css */
+@import "tailwindcss";
+
+@import "./theme.css";
+
+/* custom css you might want to add as overrides */
